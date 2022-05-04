@@ -1,0 +1,51 @@
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmManager.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carDepot.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carType.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.contract.resources
+D:\Study_C#\Project\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.compare.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carDepot.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carType.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.contract.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.sale.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmManager.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.contractStatistic.resources
+D:\Study_C#\Project - Copy\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carStatistics.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carDepot.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carStatistics.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.carType.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.contract.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.sale.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.childForm.contractStatistic.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLogin.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmManager.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Code\C#\Đồ án 1 - Nhóm 6\WindowsFormsApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

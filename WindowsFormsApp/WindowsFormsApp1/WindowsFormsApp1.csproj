@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F3B4727-D6CA-4168-88A3-5334B81596BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="childForm\carDepot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\carDepot.Designer.cs">
+      <DependentUpon>carDepot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="childForm\carStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\carStatistics.Designer.cs">
+      <DependentUpon>carStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="childForm\carType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\carType.Designer.cs">
+      <DependentUpon>carType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="childForm\contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\contract.Designer.cs">
+      <DependentUpon>contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="childForm\sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\sale.Designer.cs">
+      <DependentUpon>sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="childForm\contractStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childForm\contractStatistic.Designer.cs">
+      <DependentUpon>contractStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManager.Designer.cs">
+      <DependentUpon>frmManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanlyxedulichhDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanlyxedulichhDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanlyxedulichhDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanlyxedulichhDataSet11.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="childForm\carDepot.resx">
+      <DependentUpon>carDepot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childForm\carStatistics.resx">
+      <DependentUpon>carStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childForm\carType.resx">
+      <DependentUpon>carType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childForm\contract.resx">
+      <DependentUpon>contract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childForm\sale.resx">
+      <DependentUpon>sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childForm\contractStatistic.resx">
+      <DependentUpon>contractStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManager.resx">
+      <DependentUpon>frmManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanlyxedulichhDataSet1.xsc">
+      <DependentUpon>QuanlyxedulichhDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanlyxedulichhDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanlyxedulichhDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanlyxedulichhDataSet1.xss">
+      <DependentUpon>QuanlyxedulichhDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanlyxedulichhDataSet11.xsc">
+      <DependentUpon>QuanlyxedulichhDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="QuanlyxedulichhDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanlyxedulichhDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanlyxedulichhDataSet11.xss">
+      <DependentUpon>QuanlyxedulichhDataSet11.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
